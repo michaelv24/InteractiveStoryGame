@@ -1,48 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T14:46:36.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bYeYGXg-oJ82buxaN8_g" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T15:04:50.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1gLsWW4xdjkqWxcqh2BZ" version="20.8.15" type="github">
   <diagram name="Page-1" id="Ozm3xN621YwZBeJ7nJhE">
-    <mxGraphModel dx="2284" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g6iba4YQK6XeHE2exlAs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-1" edge="1">
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UpWl7sQyUpbdqbIwqZ_7-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="170" as="targetPoint" />
+            <mxPoint x="400" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-1" value="Start Game" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" parent="1" target="g6iba4YQK6XeHE2exlAs-1" edge="1">
+        <mxCell id="g6iba4YQK6XeHE2exlAs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-24" edge="1" target="UpWl7sQyUpbdqbIwqZ_7-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="170" as="sourcePoint" />
+            <mxPoint x="-200" y="560" as="targetPoint" />
+            <mxPoint x="-50" y="390" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-9" value="Play Video Games" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-11" value="Watch TV" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-12" value="Good job wasting your life" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-18" value="Play by yourself" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -50,30 +21,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-20" value="Play with the boys" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-25" value="Good job being a loner" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-28" value="Play Rocket League" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-29" target="g6iba4YQK6XeHE2exlAs-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-29" value="Play League of Legends" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-30" value="Touch grass" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-33" edge="1">
+        <mxCell id="g6iba4YQK6XeHE2exlAs-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="g6iba4YQK6XeHE2exlAs-30" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="610" as="targetPoint" />
+            <mxPoint x="680" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-33" value="Play Fortnite" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="g6iba4YQK6XeHE2exlAs-30" value="Touch grass" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6iba4YQK6XeHE2exlAs-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-30" edge="1" target="g6iba4YQK6XeHE2exlAs-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="610" as="targetPoint" />
+            <mxPoint x="240" y="520" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-36" target="g6iba4YQK6XeHE2exlAs-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,17 +43,8 @@
         <mxCell id="g6iba4YQK6XeHE2exlAs-36" value="Become an Epic gamer and get a victory royale" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-37" target="g6iba4YQK6XeHE2exlAs-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-37" value="become a mobile gamer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="820" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-38" value="GG You win" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-40" value="Play pubg and become a streamer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-42" target="g6iba4YQK6XeHE2exlAs-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -102,14 +55,13 @@
         <mxCell id="g6iba4YQK6XeHE2exlAs-45" value="Naruto skin" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6iba4YQK6XeHE2exlAs-47" target="g6iba4YQK6XeHE2exlAs-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g6iba4YQK6XeHE2exlAs-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="g6iba4YQK6XeHE2exlAs-47" target="UpWl7sQyUpbdqbIwqZ_7-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-47" value="Deku skin" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g6iba4YQK6XeHE2exlAs-50" value="You watch MHA and go too deep into the fandom" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g6iba4YQK6XeHE2exlAs-52" value="Double pump" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="720" width="120" height="60" as="geometry" />
@@ -117,8 +69,51 @@
         <mxCell id="g6iba4YQK6XeHE2exlAs-53" value="pump smg" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="370" width="170" height="80" as="geometry" />
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-2" target="UpWl7sQyUpbdqbIwqZ_7-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-2" target="g6iba4YQK6XeHE2exlAs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-2" value="play video games" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-8" target="UpWl7sQyUpbdqbIwqZ_7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-8" value="choose&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-14" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-15" target="UpWl7sQyUpbdqbIwqZ_7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpWl7sQyUpbdqbIwqZ_7-15" target="UpWl7sQyUpbdqbIwqZ_7-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-15" value="watch Anime" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-21" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;You get obsessed with MHA and go too deep into the fandom&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="640" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-23" value="congrats, you&#39;re a loner&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-24" value="play with yourself" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-26" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWl7sQyUpbdqbIwqZ_7-30" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
